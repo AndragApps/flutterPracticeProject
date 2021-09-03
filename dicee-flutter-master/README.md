@@ -1,4 +1,6 @@
 # Dicee 🎲
+![flutter_01](https://user-images.githubusercontent.com/63476444/131942509-368058a9-3332-4182-b92e-80cc59a111a7.png)
+
 
 ## Our Goal
 
